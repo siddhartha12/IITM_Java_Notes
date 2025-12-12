@@ -61,17 +61,17 @@ Final course score T = 0.1GAA + 0.3F+ 0.2 of Max(PE1,PE2)+ (Bonus)0.10 Min(PE1,P
 
 12 weeks of coursework, weekly online assignments, 2 in-person invigilated quizzes, 1 in-person invigilated end term exam. For details of standard course structure and assessments, visit [Academics](https://study.iitm.ac.in/ds/academics.html) page.
 
-|   |   |
-|---|---|
-|WEEK 1|Basic Object Oriented Programming: Class Hierarchy|
-|WEEK 2|Basic Object Oriented Programming: Inheritance, Overriding|
-|WEEK 3|Basic Object Oriented Programming: Polymorphism|
-|WEEK 4|Basic Object Oriented Programming: Abstract Classes|
-|WEEK 5|Collections. Iterators.|
-|WEEK 6|Generics. Callbacks.|
-|WEEK 7|Cloning. I/O serializations. Packages|
-|WEEK 8|Cloning. I/O serializations. Packages (Continued)|
-|WEEK 9|Exception handling|
-|WEEK 10|Concurrent programming|
-|WEEK 11|Concurrent programming (Continued)|
-|WEEK 12|Concurrent programming (Continued)|
+|         |                                                            |
+| ------- | ---------------------------------------------------------- |
+| WEEK 1  | Basic Object Oriented Programming: Class Hierarchy         |
+| WEEK 2  | Basic Object Oriented Programming: Inheritance, Overriding |
+| WEEK 3  | Basic Object Oriented Programming: Polymorphism            |
+| WEEK 4  | Basic Object Oriented Programming: Abstract Classes        |
+| WEEK 5  | Collections. Iterators.                                    |
+| WEEK 6  | Generics. Callbacks.                                       |
+| WEEK 7  | Cloning. I/O serializations. Packages                      |
+| WEEK 8  | Cloning. I/O serializations. Packages (Continued)          |
+| WEEK 9  | Exception handling                                         |
+| WEEK 10 | Concurrent programming                                     |
+| WEEK 11 | Concurrent programming (Continued)                         |
+| WEEK 12 | Concurrent programming (Continued)                         |
